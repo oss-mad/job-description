@@ -8,13 +8,14 @@ Who You Are:
 
 Ability to be self-driven, take advantage of Open Source, Standards and Community, and a fast and consistent learner are valued attributes for this position. Prior contributions to Open Source Software communities and/or GitHub projects are a plus.
 You are pragmatic, iterative, and customer-driven. You focus on where you can add the most value and automate and delegate the rest. You’re organized, self-starting, and resourceful.
-You have excellent written and verbal communication skills
-You are organized, self-starting, and resourceful.
-You know when to ask for help
-You are comfortable collaborating across time zones and cultures
-You truly enjoy problem solving, automating processes, and improving the customer experience
-You get (or at least done your homework) why open source exists, why it works, and thought about the challenges it poses to organizations
-You understand the differences between some of the common open source licenses
+1. You have excellent written and verbal communication skills
+2. You are organized, self-starting, and resourceful.
+3. You know when to ask for help
+4. You are comfortable collaborating across time zones and cultures
+5. You truly enjoy problem solving, automating processes, and improving the customer experience
+6. You get (or at least done your homework) why open source exists, why it works, and thought about the challenges it poses to organizations
+7. You understand the differences between some of the common open source licenses
+
 Minimum Requirements:
 
 Preferred experience in two of the following: Java/Python/GO programming languages (link to GitHub if possible)
